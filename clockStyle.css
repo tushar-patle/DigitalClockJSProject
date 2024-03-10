@@ -12,7 +12,7 @@ html, body {
 
 .box {
     height: 60px;
-    width: 11%;
+    width: 13%;
     background-color: lightgray;
     border: 2px solid black;
     justify-content: space-between;
